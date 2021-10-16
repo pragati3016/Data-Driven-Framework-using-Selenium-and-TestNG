@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rediff>
+	<webURL>https://money.rediff.com/</webURL>
+	<signinButton_Xpath>//*[@id="signin_info"]/a[1]</signinButton_Xpath>
+	<emailID_Xpath>//*[@id="useremail"]</emailID_Xpath>
+	<passwordField_Xpath>//*[@id="userpass"]</passwordField_Xpath>
+	<submitBtn_Xpath>//*[@id="loginsubmit"]</submitBtn_Xpath>
+</rediff>
